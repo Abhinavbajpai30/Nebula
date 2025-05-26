@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Project Nebula ✨
+The flagship open-source initiative of the Society for Astrophysics and Space Technology (SAST)
 
-## Getting Started
+## Overview
+Project Nebula is envisioned to be a collaborative platform that blends innovation, learning, and real-world development. At its core, Nebula aims to empower SAST members—especially juniors—by immersing them in the world of open-source contribution and full-stack development.
 
-First, run the development server:
+The project begins with the development of the SAST website, gradually evolving into an ecosystem of interconnected modules. This includes backend systems, interactive robotics dashboards, and project-specific tools. Nebula is designed not only to build impactful digital solutions but also to nurture a culture of continuous learning and technical collaboration within the SAST community.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Learning & Development Focus
+To ensure every contributor is equipped to participate meaningfully, Project Nebula incorporates a strong educational component:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Workshops & Technical Lectures: A series of sessions focused on open-source development, Git/GitHub best practices, and web technologies (HTML, CSS, JavaScript, React, Next.js, Node.js, EJS, databases, etc.).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Guided Learning: These sessions will guide students from foundational concepts to advanced practices.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Hands-On Experience: Project Nebula serves as both a practical, hands-on development experience and an educational journey.
 
-## Learn More
+## Project Nebula Stands For:
+🚀 Building scalable, impactful tools for the SAST ecosystem.
+🌍 Encouraging open-source contributions among students.
+🧠 Fostering technical growth through mentorship, workshops, and peer learning.
+🤝 Creating a collaborative space where creativity meets code.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+BЧ SΛST
