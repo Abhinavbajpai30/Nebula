@@ -77,7 +77,7 @@ const HomePage: React.FC = () => {
 
         <main className="relative z-10 flex flex-col items-center w-full px-4 mt-12 sm:mt-16">
           
-          <h1 className="font-orbitron text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-black uppercase tracking-widest mb-10 sm:mb-12 nebula-text-effect">
+          <h1 className="font-orbitron text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-black uppercase tracking-widest mb-10 sm:mb-12 nebula-text-effect title">
             NEBULA
           </h1>
           
