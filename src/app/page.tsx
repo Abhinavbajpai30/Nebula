@@ -5,7 +5,7 @@ import Head from 'next/head';
 import CountdownUnit from './components/CountdownUnit';
 
 const HomePage: React.FC = () => {
-  const launchDate = new Date('2025-06-02T06:30:00Z').getTime();
+  const launchDate = new Date('2025-06-02T12:30:00Z').getTime();
 
   const [timeRemaining, setTimeRemaining] = useState({
     days: 0,
